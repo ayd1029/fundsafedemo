@@ -1,2 +1,2 @@
-# fundsafer
-FundSafer is a solution for transparent management of project funds.
+# FundSafe - Anti-Rug Pull Solution
+FundSafe is a solution for transparent management of project funds.
